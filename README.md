@@ -31,13 +31,14 @@ This project is an AI-powered Sales Development Representative (SDR) Email Outre
    ```
    git clone https://github.com/yourusername/sdr-email-outreach-system.git
    cd sdr-email-outreach-system
-   '''
+   ```
+   
 Set Up a Virtual Environment
 
-'''
+```
 python -m venv venv
 source venv/bin/activate   # On Windows, use `venv\Scripts\activate'
-'''
+```
 
 Install Dependencies
 
@@ -50,14 +51,14 @@ Email Sending: Set up an app-specific password for SMTP in your email account.
 Usage
 Start the Backend Server
 
-'''
+```
 uvicorn app:app --reload
-'''
+```
 
 Run the Frontend
-'''
+```
 streamlit run frontend.py
-'''
+```
 
 Interact with the System
 
@@ -74,7 +75,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contact
 For any questions or further information, please contact agniprasanth1723@gmail.com.
 
-arduino
-Copy code
 
-Just replace placeholders like `https://github.com/yourusername/sdr-email-outreach-system.
+
