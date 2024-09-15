@@ -1,0 +1,58 @@
+Analytics Sindhya Training & Internship Catalog
+Date: [Current Date]
+
+1. Introduction
+   Welcome to Analytics Sindhya! We provide premier training and internship opportunities in high-demand fields such as Data Science, Artificial Intelligence, and Machine Learning. Our programs are crafted to equip individuals with practical skills and real-world experience to excel in the tech industry.
+
+2. Training Programs
+
+   Data Science Training
+   - Description: Comprehensive training covering data analysis, visualization, statistical methods, and machine learning. Includes hands-on projects and real-world case studies.
+   - Duration: 3 months
+   - Format: Online/On-site
+   - Key Features: Expert instructors, interactive sessions, personalized support.
+   - Pricing: ₹50,000
+   - Contact: analyticssindh@edu.in
+
+   Artificial Intelligence Training
+   - Description: In-depth course on AI fundamentals, including neural networks, natural language processing, and AI ethics. Designed for aspiring AI professionals.
+   - Duration: 4 months
+   - Format: Online/On-site
+   - Key Features: Cutting-edge curriculum, industry projects, mentorship.
+   - Pricing: ₹60,000
+   - Contact: analyticssindh@edu.in
+
+   Machine Learning Training
+   - Description: Hands-on training in machine learning algorithms, model building, and deployment techniques. Emphasis on practical applications and real-life scenarios.
+   - Duration: 3 months
+   - Format: Online/On-site
+   - Key Features: Project-based learning, real-time feedback, career support.
+   - Pricing: ₹55,000
+   - Contact: analyticssindh@edu.in
+
+3. Internship Projects
+
+   Data Science Internship
+   - Description: Work on real-world data projects, analyze large datasets, and develop predictive models. Gain practical experience and build a strong portfolio.
+   - Duration: 6 weeks
+   - Requirements: Basic knowledge of data analysis tools and techniques.
+   - Benefits: Professional mentorship, project documentation, and certification.
+   - Pricing: ₹25,000
+   - Contact: analyticssindh@edu.in
+
+   AI Internship
+   - Description: Participate in AI-driven projects, including developing machine learning models and implementing AI solutions. Ideal for those seeking hands-on experience in AI.
+   - Duration: 8 weeks
+   - Requirements: Understanding of AI concepts and programming skills.
+   - Benefits: Industry exposure, practical application, and career guidance.
+   - Pricing: ₹30,000
+   - Contact: analyticssindh@edu.in
+
+   Machine Learning Internship
+   - Description: Collaborate on machine learning projects, build and fine-tune models, and apply advanced algorithms to solve complex problems.
+   - Duration: 6 weeks
+   - Requirements: Familiarity with machine learning techniques and tools.
+   - Benefits: Real-world experience, skill enhancement, and certification.
+   - Pricing: ₹27,000
+   - Contact: analyticssindh@edu.in
+

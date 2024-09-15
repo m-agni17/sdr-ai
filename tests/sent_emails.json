@@ -1,0 +1,22 @@
+{
+    "1": {
+        "to_address": "agniprasanth1723@gmail.com",
+        "original_subject": "Sample",
+        "response_body": "Here's a potential response:\n\nSubject: Re: Joining the Course - Next Steps\n\nDear [Prospect's Name],\n\nThank you for your interest in joining our course! We're excited to have you consider this opportunity.\n\nTo confirm, we'd like to understand which specific course you're interested in and what motivated you to join. Could you please let us know?\n\nOnce we've received this information, we'll provide you with more details on the course structure, pricing, and any relevant next steps.\n\nLooking forward to hearing back from you!\n\nBest regards,\n[Your Name]"
+    },
+    "2": {
+        "to_address": "2034007aiml@cit.edu.in",
+        "original_subject": "Re: Test Email",
+        "response_body": "Here's a potential response:\n\nSubject: Re: Test Email\n\nDear [Sender Name],\n\nThank you for reaching out to us through this test email. I hope everything worked as expected with your Python and SMTP setup.\n\nIf you're looking for any assistance or have questions regarding our services, please don't hesitate to contact me directly at [Your Email Address]. I'd be more than happy to help.\n\nBest regards,\n[Your Name]"
+    },
+    "3": {
+        "to_address": "2034007aiml@cit.edu.in",
+        "original_subject": "Re: Re: Test Email",
+        "response_body": "Since the prospect's email appears to be a test email, likely sent as part of a testing scenario or educational exercise, it would be best not to respond directly.\n\nHere is an example of how you could handle this situation:\n\n**Do Not Respond**\n\nIn this case, there's no need to respond to the email. The sender has explicitly stated that it was a \"test email\", indicating that their intention was not to initiate a conversation or request assistance from your team.\n\nIf you were to respond, it might be perceived as an acknowledgement of receipt and potentially trigger further unwanted emails or interactions."
+    },
+    "4": {
+        "to_address": "2034056aiml@cit.edu.in",
+        "original_subject": "Re: Test Email",
+        "response_body": "Here's a potential response:\n\nSubject: Re: SMTP Inquiry\n\nDear [Sender Name],\n\nThank you for reaching out! SMTP (Simple Mail Transfer Protocol) is an internet standard protocol used for sending emails between servers. It's a set of rules that allows email clients to communicate with mail servers, enabling the transmission and delivery of emails.\n\nIn the context of your test email sent using Python, SMTP was likely used as a protocol to relay the email from your application to our mail server, ensuring its successful delivery.\n\nIf you have any further questions or would like more information on how we use SMTP in our infrastructure, please don't hesitate to ask. I'm here to help!\n\nBest regards,\n[Your Name]"
+    }
+}
