@@ -14,7 +14,7 @@ if 'sample_emails' not in st.session_state:
 if 'improved_email' not in st.session_state:
     st.session_state.improved_email = None
 
-st.title("Prospect Email Automation System")
+st.title("SDR_AI")
 
 # Step 1: Generate Research Report
 with st.form(key='research_form'):

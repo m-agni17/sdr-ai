@@ -71,7 +71,7 @@ async def send_personalized_email(request: EmailSendingRequest):
         smtp_server = "smtp.gmail.com"
         smtp_port = 587
         smtp_user = "salesrepresent124@gmail.com"
-        smtp_password = "ochp ckfu llyd lwqa"  # Update with the correct credentials
+        smtp_password = "smtp-api-key"  # Update with the correct credentials
 
         result = send_email(
             request.sender_email,

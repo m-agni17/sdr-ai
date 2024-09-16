@@ -12,7 +12,7 @@ import os
 
 IMAP_SERVER = 'imap.gmail.com'
 IMAP_USER = 'salesrepresent124@gmail.com'
-IMAP_PASSWORD = 'ochp ckfu llyd lwqa'
+IMAP_PASSWORD = 'smtp-api-key'
 SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT = 587
 

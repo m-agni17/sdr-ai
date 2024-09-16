@@ -4,7 +4,7 @@ from langchain_ollama import ChatOllama
 from typing import Dict, Any
 
 SERPER_API_URL = "https://google.serper.dev/search"
-SERPER_API_KEY = "a939292e37152b3d04a7e1539be304105c47eb98"
+SERPER_API_KEY = "serper-api"
 
 
 
